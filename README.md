@@ -15,4 +15,4 @@ Watch (turn on notification) this repo so that you get benefited from all differ
 
 Just one more thing:
 - Give this repo a star.
-- Follow me on [LinkedIn](https://www.linkedin.com/in/swastikyadav/).
+- Follow me on GitHub & [LinkedIn](https://www.linkedin.com/in/swastikyadav/).
