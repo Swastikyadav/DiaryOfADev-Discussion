@@ -13,6 +13,11 @@ Watch (turn on notification) this repo so that you get benefited from all differ
 - Just create a new issue and descrie your doubt, question, or concept you want to discuss.
 - That's it!
 
+## Code of conduct
+- Please be respectful to everyone.
+- Only programming related discussions are allowed.
+- No promotion of any type.
+
 Just one more thing:
 - Give this repo a star.
 - Follow me on GitHub & [LinkedIn](https://www.linkedin.com/in/swastikyadav/).
